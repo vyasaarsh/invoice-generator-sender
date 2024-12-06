@@ -1,1 +1,1 @@
-# invoice-generator-sender
+# Invoice-Generator-Sender-App
